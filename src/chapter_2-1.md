@@ -1,0 +1,1 @@
+# Wizard Skills: Beginner Level
