@@ -1,4 +1,4 @@
-# The Wizard Amigos Guide
+# The Wizard Amigos Guide 🧙
 
 To know more about the project, please visit the [Wizard Amigos website](http://wizardamigos.com/).
 
@@ -8,9 +8,9 @@ The _Wizard Amigos Guide_ is built with [mdBook](https://github.com/rust-lang-nu
 
 For a complete guide on how to use mdBook, please have a look at the [mdBook User Guide](https://rust-lang-nursery.github.io/mdBook/).
 
-In order to be able to use mdBook, you have to install [Rust](https://www.rust-lang.org/) first (at least version 1.20).
+1. In order to be able to use mdBook, you have to install [Rust](https://www.rust-lang.org/) first (at least version 1.20).
 
-1. Copy the following command in your terminal:
+Copy the following command in your terminal:
 
 ```sh
 curl https://sh.rustup.rs -sSf | sh
